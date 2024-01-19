@@ -1,0 +1,97 @@
+
+
+
+
+Introduction of the Project
+
+    This Project Banking Management System is a platform where Customer and Bank Employees can manage the account from a single program
+    Using Automation in the process the Banks for their customer and the customer can initiate transactions in minutes and are able to manage their account and transactions easily.
+    This System will ensure the whole system is faster,efficient and less time consuming in today’s faster world. It also offers customers almost every service traditionally available through a local branch including deposits, transfers, and managing transaction history.
+    
+
+Objective of the Project
+
+    The Objective of the project is to make students learn and use their knowledge to make the project in the real world with different types of problems and situations.
+
+    The project will allow students to demonstrate breadth of knowledge in computer science, as exemplified in the areas of systems, theory and software development.
+
+    This project will teach how to make programs faster and efficiently.
+
+    The project will be made utilizing modern software and programs that will make students familiar with new technologies.
+
+Scope of the Project
+
+    The Project will be made using Python Language and MySQL database.In the later stages the project will go through Design phase,Development phase, testing phase and full code optimisation to make the process of deploying and managing the programs more efficient.The design phase will help us meet all goals in design and will set a standard in the process.In the development phase the project will see a lot of design improvement and all types of different logics to make the program better.The program will go through 2 types of tests blackbox testing and whitebox testing.
+    In Black box testing the whole system will be tested without any knowledge of internal structure or design.This type of testing will help us make changes in the design to make the program more user friendly and without any bugs.
+    In the White box testing the system will be tested by a tester who knows all the internal structure and designs.This test will help us optimise the code to run better in the computer without taking more resources.
+
+The Existing System
+
+    The Existing system is done by Humans putting the data in the computers manually and managing all the files related to it. This outdated system in today’s world has become much more sophisticated, exhausting and tedious to manage for humans. Humans are prone to make errors in this stressful environment.
+    This type of system are often unsecure and non-redundant,which is like a disaster waiting to happen.This could lead to major downtime in a catastrophic event.The banking sectors cannot afford to take such big risks, where the term “it's a human error” are no longer valid in today's competitive banking environment.
+
+The Proposed System
+
+    This project aims to end all the sophisticated work done by us and make it easy to manage, faster and error free by using today's powerful and reliable programs and using automation in Process.This will make work much easier for everyone either it be the employee in the bank or customer.The banks had to use many files and software to manage all this,now it can be done more easier by using few programs such as  Database Management system.
+    By using these systems the Banks organisation can store all their data in one place securely, redundantly to ensure the private and important data will not fall into the wrong hands or face any data loss. In an emergency event it has potential to get fully operationalised quickly  without any hassle or facing any major downtime. 
+  
+Input/Output Requirements
+
+        The Input requirement for the projects are:
+        Name of the customers.
+        Age of the customers
+        Phone number
+        Residential Address
+        Amount of Money they want to transfer.
+        To whom the customer wants to transfer.
+        Customer authentication like username and passwords.
+        Account number 
+
+        The Output Requirements of the project are:
+        Transaction history required by customer
+        Whether the transfer is successful or not.
+
+System Requirements
+    Minimum Requirements 
+
+    Hardware Requirements 
+
+    Processor: Intel Core i3 or AMD Ryzen 3 Processors 
+    Ram: Minimum 4 GB DDR3  Memory
+    Storage :256GB
+
+    Software Requirements
+
+    Python version: 3.5 or later
+    MySQL: 5.7 or later 
+    Python-MySQL-Connector: 2.0 or later
+
+System Design
+
+    Portal: The portal will be designed in a way that users will find it easier to navigate throughout it.It will consist of all the Input requirements stated by the banks to start money transfers,for creating/deleting the account and for user authentication.
+
+    The System: The system will consist of two sections, designing of the program and designing of database.The program will be made using python and made in such a way that it would run error free and not making the program too sophisticated so that it could be customized for the organisation requirement in the later stage. 
+    The Database would be designed according to the needs that would make it easier to store all the data and to transfer all the existing data in the database faster.
+    
+    Implementation of MySQL
+    Database
+
+    This Project will be made using MySQL for the  Database management requirements.
+    There will be a single database where all our tables are created.The tables that could be created would be related to customers data and customers transaction history. That database will create a link to a python program using extension python-mysql-connector for all the data transfers between the program and the database management software.The databases would have a backup in a different location.
+
+Conclusion
+In the end we learned many valuable things from this project like making good designs and converting real-life situations into efficient code, and how you can write readable and understandable code that is both time- and memory-efficient. While making the project we made progress by solving a number of problems. Finding solutions to each problem was the most important part of the project .This provided us with experiences and deeper knowledge in the area of computer science which will help us in the future and will help us tackle further problems in the future.
+
+Bibliography
+
+Computer Science With Python By Sumita Arora.
+www.google.com
+www.geeksforgeeks.com 
+www.w3schools.com
+www.wikipedia.com
+dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/
+docs.python.org/3/
+dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
+
+
+Thank You

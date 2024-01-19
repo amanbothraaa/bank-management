@@ -1,0 +1,18 @@
+Log from ashish 2:00 jan 8
+    added config.py to put username and password of mysql:
+        ##content of config.py
+            mysql_user="<username>"
+            mysql_passwd="<Password>"
+    added a safer way to input the password without showing the password
+        using getpass lib
+            ## example
+                password1 = str(gp.getpass(prompt="Create new password: "))
+                password2 = str(gp.getpass(prompt="Re-enter New Password:"))
+
+log from ashish 4:30 jan 8
+    changes the way user sees the intered password, from blank to Stars ***
+            used pwinput lib
+            requires pwinput library to be install
+
+log from ashish 6:30 jan 13
+    added a way to check if the database exit or not ,  if not it creates it
